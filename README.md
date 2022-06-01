@@ -1,3 +1,3 @@
 # JavaFundamentalsSoftuni
 
-These are all of the Exercises that ive written in my Softuni Java Fundamentals module.
+These are all of the exercises that I've written in my Softuni Java Fundamentals module.
