@@ -9,6 +9,7 @@ class Main {
         int m = Integer.parseInt(scanner.nextLine());
 
         m = m + 30;
+
         if(m >= 60)
         {
             m = m - 60;
