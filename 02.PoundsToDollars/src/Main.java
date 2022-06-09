@@ -6,7 +6,7 @@ public class Main {
 
         double m = Double.parseDouble(scan.nextLine());
 
-        double km = m / 1000;
-        System.out.printf("%.2f", km);
+        double km = m * 1.36;
+        System.out.printf("%.3f", km);
     }
 }
