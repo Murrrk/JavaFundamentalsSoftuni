@@ -11,7 +11,6 @@ public class Main {
         double h = d * 24;
         double m = h * 60;
 
-        System.out.printf("%d centuries = %.0f years = %.0f Of days =" +
-                "%.0f Of hours = %.0f Of minutes", c,y,d,h,m);
+        System.out.printf("%d centuries = %.0f years = %.0f days = %.0f hours = %.0f minutes", c,y,d,h,m);
     }
 }
