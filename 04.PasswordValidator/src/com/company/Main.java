@@ -47,7 +47,7 @@ public class Main {
     }
 
     private static boolean isValidCountDigits (String password) {
-        int countDigits = 0; 
+        int countDigits = 0;
         for (char symbol : password.toCharArray()) {
             if (Character.isDigit(symbol)) {
                 countDigits++;
